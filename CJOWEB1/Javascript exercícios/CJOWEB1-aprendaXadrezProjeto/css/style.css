@@ -1,0 +1,381 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+
+body {
+    margin: 0;
+    font-family: "Roboto Slab", serif;
+}
+
+.top-bar {
+    background-color: #759655d7;
+    color: white;
+    padding: 15px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-optical-sizing: auto;
+}
+
+.logo img {
+    height: 80px;
+    width: auto;
+}
+
+.nav-links {
+    display: flex;
+    gap: 20px;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.nav-links a:hover {
+    color: #4b4743;
+}
+
+.textoInicio {
+    background-color: #302E2B;
+    display: flex;
+    font-optical-sizing: auto;
+    font-style: normal;
+    color: white;
+    padding-bottom: 85px;
+    padding-top: 85px;
+}
+
+.txtTextoinicio1 {
+    margin-left: 50px;
+    font-size: 60px;
+}
+
+.txtTextoinicio2 {
+    padding-top: 215px;
+    margin-right: 50px;
+    text-align: right;
+    font-size: 25px;
+}
+
+.Vamoscomecar {
+    background-color: #759655d7;
+    padding-top: 70px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 100px;
+    color: #302E2B;
+}
+
+.tituloVamoscomecar {
+    font-size: 45px;
+}
+
+.textoVamoscomecar {
+    display: flex;
+    justify-content: space-around;
+    font-size: 22px;
+    padding-top: 70px;
+    font-optical-sizing: none;
+    color: white;
+}
+
+.textoVamoscomecar1, .textoVamoscomecar2, .textoVamoscomecar3  {
+    padding: 20px;          
+    background-color: #302E2B; 
+    border-radius: 15px;    
+    width: 45%;             
+    margin: 10px;           
+}
+
+.textoVamoscomecar1 a, .textoVamoscomecar2 a, .textoVamoscomecar3 a {
+    text-decoration: none;
+    color: white;
+}
+
+.textoVamoscomecar :hover{    
+    background-color: #4b4743;        
+}
+
+.tutorial1txt {
+    background-color: #302E2B;
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px; 
+}
+
+.titulot1 {
+    font-size: 45px;
+    padding: 40px;
+}
+
+.tutorial1texto {
+    font-size: 22px;
+    padding-left: 40px;
+}
+
+.imagemxadrezdirecao1 {
+    padding-top: 70px;
+    padding-bottom: 70px;
+    display: flex;
+    justify-content: center;
+}
+
+.imagemxadrezdirecao2 {
+    width: 800px;
+    height: auto;
+}
+
+.imagemxadrezpeças {
+    width: 500px;
+    height: auto;
+}
+
+.xadrezcompetitivov1 {
+    width: 800px;
+    height: auto;
+}
+
+.tutorial1txtnext {
+    font-size: 22px;
+    padding: 70px;
+    text-align: right;
+}
+
+.tutorial1txtnext a, .link1 a {
+    color: white;
+    text-decoration: none;
+}
+
+.tutorial1txtnext :hover, .link1 :hover {
+    color: #759655d7;
+}
+
+.enpassant {
+    height: 200px;
+    width: auto;
+}
+
+.link1 {
+    color: rgb(138, 138, 138);
+}
+
+.tconcluido {
+    color: white;
+    font-size: 100px;
+    padding: 50px;
+}
+
+.tconcluido2 {
+    color: white;
+    font-size: 30px;
+    padding: 50px 50px 100px 50px; /* cima, direita, baixo, esquerda */
+}
+
+.tconcluido3 {
+    display: flex;
+    background-color: #302E2B;
+    justify-content: space-around;
+    font-size: 22px;
+    padding-top: 80px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 120px;
+    font-optical-sizing: none;
+    color: white;
+}
+
+.tconcluido3_1, .tconcluido3_2, .tconcluido3_3  {
+    padding: 20px;          
+    background-color: #759655d7; 
+    border-radius: 39px;   
+    text-align: center; 
+    width: 45%;             
+    margin: 50px;           
+}
+
+.tconcluido3_1 a, .tconcluido3_2 a, .tconcluido3_3 a {
+    text-decoration: none;
+    color: white;
+}
+
+.tconcluido3 :hover {
+    background-color: #80ac55;
+}
+
+.taticaslista {
+    font-size: 22px;
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 100px;
+}
+
+.taticaslista :hover {
+    color: #759655d7;
+}
+
+.taticaslista  a {
+    color: white;
+}
+
+.sobreosite1 {
+    display: flex;
+    text-align: center;
+}
+
+@media (max-width: 768px) {
+    .top-bar {
+        flex-direction: row;
+        justify-content: space-around;
+        padding: 10px;
+    }
+
+    .nav-links {
+        flex-wrap: wrap;
+        gap: 10px;
+        font-size: 15px;
+    }
+
+    .logo {
+        margin-right: 10px;
+    }
+
+    .textoInicio {
+        display: block;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .txtTextoinicio1 {
+        line-height: 60px;
+        margin-left: 30px;
+    }
+
+    .txtTextoinicio2 {
+        text-align: left;
+        margin-left: 30px;
+        font-size: 20px;
+        padding-top: 50px
+    }
+
+    .Vamoscomecar {
+        padding-top: 40px;
+        padding-right: 0px;
+        padding-left: 30px;
+        padding-bottom: 100px;
+        color: #302E2B;
+    }
+
+    .tituloVamoscomecar {
+        font-size: 35px;
+    }
+    
+    .textoVamoscomecar {
+        display: block;
+        font-size: 16px;
+        padding-top: 50px;
+        font-optical-sizing: none;
+    }
+
+    .textoVamoscomecar1, .textoVamoscomecar2, .textoVamoscomecar3 {   
+        width: 80%;                     
+    }
+    
+    .titulot1 {
+        font-size: 40px;
+        padding: 30px;
+    }
+    
+    .tutorial1txt {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .tutorial1texto {
+        font-size: 17px;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    
+    .imagemxadrezdirecao1 {
+        padding-top: 70px;
+        padding-bottom: 50px;
+    }
+    
+    .imagemxadrezdirecao2 {
+        width: 400px;
+    }
+    
+    .tutorial1txtnext {
+        font-size: 19px;
+        padding-left: 30px;
+        text-align: left;
+        padding-bottom: 10%;
+    }
+
+    .imagemxadrezpeças {
+        width: 300px;
+    }
+
+    .tconcluido3 {
+        display: block;
+        font-size: 16px;
+        padding: 20px;
+        padding-left: 0px;
+        font-optical-sizing: none;
+    }
+
+    .tconcluido3_1, .tconcluido3_2, .tconcluido3_3 {
+        width: 80%;
+    }
+
+    .tconcluido {
+        font-size: 70px;
+        padding: 25px;
+    }
+
+    .taticaslista {
+        font-size: 20px;
+        display: block;
+    }
+
+    .xadrezcompetitivov1 {
+        width: 400px;
+    }
+
+
+}
+
+@media (max-width: 425px) {
+
+    .tconcluido {
+        font-size: 50px;
+        padding: 20px;
+    }
+
+    .nav-links a {
+        font-size: 12px;
+    }
+
+    .imagemxadrezdirecao2 {
+        width: 310px;
+    }
+
+    .titulot1 {
+        font-size: 35px;
+        padding: 10px;
+    }
+
+    .xadrezcompetitivov1 {
+        width: 310px;
+    }
+
+    .enpassant {
+        height: 90px;
+    }
+}
+
+@media (max-width: 320px) {
+    .tconcluido {
+        font-size: 40px;
+    }
+}
