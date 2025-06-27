@@ -4,6 +4,7 @@ int main(void) {
 
     while(true) {
         int N;
+        std::cout << "Insira o numero de salas que participaram do campeonato" << std::endl;
         do {
             std::cin >> N;
         } while(!(N >= 0) || !(N <= 1000));
@@ -14,6 +15,7 @@ int main(void) {
 
         for(int i = 0; i < N; i++) {
             do {
+                std::cout << "Pontuacao da sala " << i+1 << " ";
                 std::cin >> L[i];
             } while(!(L[i] >= 0) || !(L[i] <= 10000));
         }
@@ -28,7 +30,7 @@ int main(void) {
             }
         }
 
-        std::cout << salaVencedora << std::endl;
+        std::cout << "A sala vencedora e a sala " << salaVencedora << std::endl;
 
         delete[] L;
         L = nullptr;
