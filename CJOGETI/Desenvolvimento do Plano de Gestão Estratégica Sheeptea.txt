@@ -1,0 +1,34 @@
+Nome da empresa:
+Sheeptea
+
+Segmento: Audiovisual.
+
+Propósito: Criar e manter uma aplicação de produção musical que implemente IA para ensinar e auxiliar aos usuários.
+
+Porte: Médio.
+
+Descrição:
+A SheepTea é uma empresa do setor audiovisual que se destaca por sua plataforma web e software de produção musical. A ferramenta oferece aos usuários uma vasta gama de instrumentos e sons digitais, permitindo a criação de músicas com total liberdade de edição de características de áudio, como distorção e reverberação.
+O grande diferencial da SheepTea é a integração de inteligência artificial no processo de desenvolvimento musical. Diretamente na aplicação, os usuários têm acesso a uma IA que executa diversas tarefas, incluindo:
+
+	- Geração de partituras: Crie partituras a partir de suas composições.
+	- Leitura e execução de partituras: Converta partituras em arquivos de áudio.
+	- Sugestões de composição: Receba orientações valiosas para aprimorar suas criações.
+
+Além disso, a IA da SheepTea atua como uma ferramenta de aprendizado em teoria musical, tornando a plataforma acessível e amigável tanto para iniciantes quanto para músicos profissionais que buscam uma experiência completa e otimizada para desenvolver suas músicas e beats.
+
+Desafios Enfrentados:
+	- Mercado cheio de outras plataformas mais conhecidas e bem estabelecidas, como o flStudio.
+	- Necessidade de acompanhar a evolução das IA para manter a qualidade.
+	- Necessidade de oferecer um serviço de ponta e exclusivo para os Usuários que utilizam a versão paga, mas ainda mantendo um serviço bom para aqueles que usam a versão grátis.
+	- Necessidade de oferecer uma performance e suporte ao usuário que seja superior às outras plataformas.
+
+Qualidades: Além de serem programadores competentes e especialistas em IA, os fundadores também possuem conhecimento profundo em teoria musical e são músicos profissionais, oque permite à eles entenderem as dores reais de alguém que trabalha com produção musical, fazendo com que a aplicação tenha todas as soluções para os problemas mais comuns enfrentados na produção de música.
+
+Visão Organizacional Escolhida: RBV
+	A vantagem competitiva da SheepTea vem de seus recursos internos inovadores e difíceis de serem imitados, principalmente quando se diz respeito à sua IA exclusiva.
+	
+
+
+
+
