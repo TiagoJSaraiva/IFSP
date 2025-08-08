@@ -1,0 +1,34 @@
+Problemas da falta da visão sistêmica:
+- Falta de integração entre áreas: risco de cada setor (desenvolvimento, suporte, marketing, financeiro) trabalhar de forma isolada, o que pode gerar falhas de comunicação e perda de eficiência.
+
+- Dificuldade em manter a qualidade da IA: sem integração entre desenvolvimento, pesquisa e atendimento ao usuário, melhorias podem ser lentas e desalinhadas com as reais necessidades.
+
+- Desbalanceamento entre versão gratuita e paga: ausência de uma visão integrada sobre o impacto das mudanças nas funcionalidades pode comprometer a experiência do usuário e a conversão para o plano pago.
+
+- Suporte ao usuário abaixo da concorrência: sem fluxo de informações entre suporte, desenvolvimento e produto, problemas recorrentes podem demorar para ser corrigidos.
+
+Modelo de gestão adequado à empresa:
+O modelo mais adequado seria Gestão por Processos com abordagem Sistêmica e elementos da Gestão Ágil.
+
+Justificativa:
+
+- A gestão por processos foca no fluxo de atividades e na integração entre setores, evitando que as áreas funcionem como “silos” isolados.
+
+- A abordagem sistêmica garante que todas as decisões considerem o impacto global na empresa, evitando soluções locais que criam novos problemas em outras áreas.
+
+- A gestão ágil é importante no setor de tecnologia e IA, pois permite rápida adaptação às mudanças de mercado e inovação contínua.
+
+Como a integração de processos pode resolver os problemas
+A integração dos processos na SheepTea pode ser estruturada da seguinte forma:
+
+- Fluxo contínuo de informações entre suporte, desenvolvimento e marketing: feedback dos usuários é rapidamente incorporado às melhorias da IA.
+
+- Sistema de monitoramento centralizado: indicadores de desempenho (tempo de resposta, qualidade do áudio, estabilidade da aplicação) ficam acessíveis a todas as áreas.
+
+- Planejamento colaborativo: reuniões e ferramentas compartilhadas para alinhar lançamentos, campanhas e melhorias técnicas.
+
+- Ciclos de feedback: problemas identificados pelo suporte geram automaticamente tickets para o desenvolvimento, com prazos claros e prioridade definida.
+
+- Documentação unificada: todos os setores acessam e atualizam um repositório central com processos, padrões e boas práticas.
+
+Resultado esperado: redução de retrabalho, aumento na velocidade de resposta a problemas, melhora na experiência do usuário e maior alinhamento estratégico entre as áreas.
