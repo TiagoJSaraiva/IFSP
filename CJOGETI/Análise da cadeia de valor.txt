@@ -1,0 +1,50 @@
+1. Atividades Primárias 
+
+
+	Logística de Entrada: Envolve o recebimento e gerenciamento de insumos. No caso da SheepTea, isso se traduz no gerenciamento de dados e conteúdos, como a biblioteca de sons, instrumentos digitais e os modelos de inteligência artificial.
+
+	Operações: É a transformação dos insumos em produtos finais. Para a SheepTea, corresponde ao desenvolvimento, manutenção e atualização da plataforma web e do software de produção musical.
+
+	Logística de Saída: Refere-se à distribuição do produto ao cliente. Para a SheepTea, seria a disponibilização da plataforma e do software aos usuários, o gerenciamento de contas e o acesso aos arquivos gerados (como partituras e áudios).
+
+	Marketing e Vendas: Abrange a divulgação, promoção e venda do produto. Isso inclui a promoção da plataforma para atrair novos usuários e a gestão de assinaturas ou licenças.
+
+	Serviços: Consiste no pós-venda, manutenção e suporte ao cliente. Na SheepTea, é o suporte técnico, o gerenciamento de feedback e a criação de tutoriais para auxiliar os usuários.
+
+
+2. Atividades de Apoio 
+
+
+	Infraestrutura da Empresa: Inclui a gestão, finanças, jurídico e estratégia. Na SheepTea, isso se relaciona à administração geral da empresa.
+
+	Gestão de Recursos Humanos: Trata do recrutamento, treinamento e retenção de talentos. Para a SheepTea, é fundamental para contratar e manter desenvolvedores, engenheiros de áudio e especialistas em IA.
+
+	Desenvolvimento Tecnológico: Envolve a inovação e o P&D (Pesquisa e Desenvolvimento). Na SheepTea, é o desenvolvimento de novas funcionalidades, a evolução da IA e a incorporação de tecnologias de áudio mais avançadas.
+
+	Aquisição: Refere-se à compra de insumos e negociação com fornecedores. Para a SheepTea, é a aquisição de softwares de desenvolvimento, hardwares, servidores em nuvem e licenças de bibliotecas de som.
+
+
+3. Pontos Críticos da Cadeia 
+
+
+	Qualidade da IA: A precisão da IA na geração de partituras e a relevância das sugestões são o principal diferencial competitivo da empresa, sendo um ponto crucial para a percepção de valor pelo cliente.
+
+	Experiência do Usuáriox': A usabilidade da plataforma deve atender tanto a iniciantes quanto a profissionais, e uma interface confusa pode afastar os usuários.
+
+	Performance do Software: O software precisa ser rápido e estável, já que o processamento de áudios e tarefas de IA é complexo e exige alta performance.
+
+	Custos Operacionais: A execução de modelos de IA e o armazenamento em nuvem podem ter um custo elevado, afetando a margem de lucro.
+
+
+4. Soluções de TI para Otimizar a Cadeia de Valor 
+
+
+	Para a Logística de Entrada e Operações: Adoção de plataformas de MLOps (Machine Learning Operations) para gerenciar o ciclo de vida da IA, desde o treinamento dos modelos até sua implantação, garantindo a constante atualização e melhoria da tecnologia.
+
+	Para a Logística de Saída: Uso de serviços de computação em nuvem (como AWS ou Google Cloud) para escalar recursos sob demanda, otimizando custos e garantindo a alta disponibilidade da plataforma.
+
+	Para Marketing e Vendas: Implementação de um sistema de CRM (Customer Relationship Management) para analisar o comportamento do usuário e personalizar as campanhas de marketing, além de melhorar o suporte ao cliente.
+
+	Para o Desenvolvimento Tecnológico: Utilização de metodologias de Integração Contínua e Entrega Contínua (CI/CD) para automatizar e agilizar o processo de desenvolvimento e lançamento de novas funcionalidades, como a IA, tornando-o mais eficiente e com menos erros.
+
+	Para os Serviços: Implementação de chatbots com IA para o atendimento ao cliente, respondendo a perguntas frequentes e resolvendo problemas básicos, otimizando o serviço de suporte e reduzindo custos.
