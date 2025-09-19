@@ -58,6 +58,10 @@
 
 #####  	A integração entre o CRM e o SCM pode gerar resultados significativamente melhores. O CRM alimenta o SCM com informações valiosas dos clientes, como os bugs mais relatados, que podem ser priorizados no pipeline de desenvolvimento. Em retorno, o SCM envia atualizações de status para o CRM, permitindo que o suporte ao cliente e as comunicações proativas informem os usuários sobre o progresso das correções. Juntos, eles criam um ciclo virtuoso: o feedback do cliente se transforma em um plano de ação claro, que é executado de forma eficiente, melhorando a satisfação do cliente.
 
+<img width="560" height="400" alt="image" src="https://github.com/user-attachments/assets/c63667b0-97c2-44b1-b7e9-aab25b6d0587" />
+
+
+
 
 
 
