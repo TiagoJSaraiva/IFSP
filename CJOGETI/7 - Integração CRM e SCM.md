@@ -2,7 +2,7 @@
 
 
 
-#####  	Recentemente, a Sheeptea tem recebido muitas reclamações sobre a demora no suporte ao consumidor e no retorno de feedbacks e reclamações. Esse problema tem se agravado devido aos atrasos na entrega de patches de correção de bugs e melhorias, causados por falhas na comunicação entre as equipes de diferentes setores.
+##### Recentemente, a Sheeptea tem recebido muitas reclamações sobre a demora no suporte ao consumidor e no retorno de feedbacks e reclamações. Esse problema tem se agravado devido aos atrasos na entrega de patches de correção de bugs e melhorias, causados por falhas na comunicação entre as equipes de diferentes setores.
 
 
 
@@ -57,6 +57,7 @@
 
 
 #####  	A integração entre o CRM e o SCM pode gerar resultados significativamente melhores. O CRM alimenta o SCM com informações valiosas dos clientes, como os bugs mais relatados, que podem ser priorizados no pipeline de desenvolvimento. Em retorno, o SCM envia atualizações de status para o CRM, permitindo que o suporte ao cliente e as comunicações proativas informem os usuários sobre o progresso das correções. Juntos, eles criam um ciclo virtuoso: o feedback do cliente se transforma em um plano de ação claro, que é executado de forma eficiente, melhorando a satisfação do cliente.
+
 
 
 
