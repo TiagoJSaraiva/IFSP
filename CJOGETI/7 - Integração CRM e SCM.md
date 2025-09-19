@@ -62,8 +62,10 @@
 
 
 
+#### **Esquema visual:**
 
 <img width="800" height="auto" alt="image" src="https://github.com/user-attachments/assets/c63667b0-97c2-44b1-b7e9-aab25b6d0587" />
+
 
 
 
