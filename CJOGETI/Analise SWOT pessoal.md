@@ -3,10 +3,12 @@
 
 
 **S** -> Strengths
-**W** -> Weaknesses
-**O** -> Opportunities
-**T** -> Threats
 
+**W** -> Weaknesses
+
+**O** -> Opportunities
+
+**T** -> Threats
 
 
 #### Strengths
@@ -56,4 +58,5 @@
 2. Falta de experiência: Nunca trabalhei formalmente na área de TI, de forma com que tenho menos experiência prática em cenários reais que envolvem prazos e dinheiro.
 3. Baixo networking: Não tenho contato com muitos profissionais de TI fora da faculdade, e mesmo dentro da faculdade, o meu contato com outros devs não é ainda ideal.
 4. Sem capital para investir: Embora seja financeiramente estável, não possuo dinheiro de sobra para investir em projetos ou estudo.
+
 
