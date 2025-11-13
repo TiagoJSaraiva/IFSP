@@ -1,0 +1,251 @@
+Trabalho Final – Gestão de TI
+Empresa: SheepTea
+Versão: 0.1 (rascunho inicial)
+Data: 17/10/2025
+
+1. Introdução à SheepTea
+1.1 Visão geral do negócio
+A SheepTea é uma empresa de porte médio do setor audiovisual que desenvolve uma plataforma de produção musical disponível em versões web e desktop. O software combina uma vasta biblioteca de instrumentos digitais, recursos de edição avançada e uma camada de inteligência artificial (IA) que auxilia usuários na criação musical. A IA gera, lê e executa partituras, sugere harmonias e melodias e oferece suporte em teoria musical, tornando a experiência acessível para iniciantes e eficiente para profissionais.
+
+1.2 Propósito e posicionamento
+Missão: democratizar a produção musical inteligente, oferecendo ferramentas capazes de acelerar o aprendizado e a execução criativa.
+Visão: ser a plataforma de produção musical assistida por IA com o melhor equilíbrio entre profundidade profissional e acessibilidade para novos criadores.
+Valores: inovação orientada ao cliente, colaboração interdisciplinar, ética no uso de IA, excelência na experiência do usuário e aprendizado contínuo.
+
+1.3 Contexto competitivo e desafios iniciais
+Mercado com forte presença de empresas consolidadas (ex.: FL Studio, Ableton Live).
+Pressão para manter a evolução constante da IA e das bibliotecas de som.
+Dependência de suporte técnico veloz para garantir retenção de clientes premium.
+Equilíbrio delicado entre funcionalidades gratuitas e pagas para sustentar o modelo freemium.
+
+2. Estado Inicial da Empresa
+2.1 Estrutura organizacional
+Equipes principais: Pesquisa & IA, Desenvolvimento de Produto, QA & DevOps, Suporte e Sucesso do Cliente, Marketing e Vendas, Administrativo-Financeiro.
+Gestão ainda parcialmente funcional, com comunicação limitada entre áreas e ausência de um escritório de processos.
+ 
+2.2 Problemas diagnosticados (visão sistêmica)
+Falta de integração entre setores gera retrabalho e lentidão na entrega de correções.
+Fluxo de feedback fragmentado: solicitações chegam por múltiplos canais sem priorização unificada.
+Monitoramento de desempenho distribuído em planilhas isoladas, dificultando visão em tempo real.
+Comunicação entre equipes ágeis (desenvolvimento) e áreas tradicionais (marketing, financeiro) apresenta ruídos.
+
+2.3 Modelo de gestão vigente
+Práticas ágeis no desenvolvimento sem alinhamento com os demais departamentos.
+Ausência de um modelo formal de governança para priorização de demandas estratégicas.
+Pouca formalização de processos críticos (ex.: ciclo de vida de releases, gestão de incidentes críticos).
+
+2.4 Cadeia de valor atual
+Atividades primárias: desenvolvimento do software, suporte ao cliente, marketing digital, vendas da assinatura premium e operações de plataforma.
+Atividades de apoio: infraestrutura cloud, pesquisa em IA, RH, jurídico e financeiro.
+Gargalo identificado na etapa de pós-venda, onde feedbacks se convertem lentamente em melhorias de produto.
+
+2.5 Cultura organizacional
+Traços fortes: criatividade, abertura à experimentação, proximidade com a comunidade de artistas.
+Traços frágeis: baixa disciplina processual, dependência de conhecimento tácito dos fundadores, pouca documentação.
+Sintomas: decisões centralizadas, dificuldade em escalar treinamento e onboarding de novos colaboradores.
+
+2.6 Tecnologia da informação e sistemas
+Uso de ferramentas desintegradas para CRM (planilhas), suporte (e-mail) e gerenciamento de releases (boards isolados).
+Monitoramento de infraestrutura feito com dashboards técnicos sem tradução para indicadores de negócio.
+
+2.7 Matriz SWOT – diagnóstico
+
+Forças (Strengths)
+F1: IA proprietária especializada em teoria musical aplicada.
+F2: Fundadores com experiência técnica e musical.
+F3: Comunidade ativa de usuários beta fornecendo feedback contínuo.
+
+Fraquezas (Weaknesses)
+W1: Processos pouco documentados e dependentes de pessoas-chave.
+W2: Suporte ao cliente lento, sem SLA definido.
+W3: Dificuldade em priorizar roadmap frente a múltiplos pedidos de clientes.
+
+Oportunidades (Opportunities)
+O1: Crescimento da demanda por ferramentas criativas com IA.
+O2: Parcerias com escolas de música e produtores independentes.
+O3: Programas governamentais de incentivo à economia criativa.
+
+Ameaças (Threats)
+T1: Concorrentes consolidados investindo em IA generativa.
+T2: Risco de compliance e privacidade envolvendo dados de usuários.
+T3: Volatilidade cambial impactando custos de infraestrutura cloud internacional.
+
+3. Visão da Organização (Resource-Based View - RBV)
+3.1 Racional estratégico
+A SheepTea adota a RBV ao reconhecer que seus recursos críticos são a IA proprietária, o know-how híbrido (tecnologia + teoria musical) e a comunidade engajada. Estes recursos são valiosos, raros, difíceis de imitar e organizacionalmente explorados, sustentando vantagem competitiva.
+
+3.2 Objetivos estratégicos
+O1: Sustentar a diferenciação tecnológica ampliando a IA para novos módulos (ex.: masterização assistida).
+O2: Converter conhecimento tácito dos especialistas em ativos organizacionais (playbooks, datasets curados).
+O3: Estabelecer governança orientada a dados para decisões sobre roadmap e experiência do cliente.
+
+4. Análise da Visão Sistêmica
+4.1 Diagnóstico
+Ausência de visão holística do ciclo cliente-feedback-desenvolvimento.
+Processos de suporte e desenvolvimento desconectados tornam o tempo de resposta elevado.
+Indicadores operacionais não se ligam às metas financeiras ou de satisfação.
+
+4.2 Diretrizes
+Criar um fluxo end-to-end de gestão de feedback e releases.
+Implantar dashboards integrados que traduzam métricas técnicas em impacto de negócio.
+Estabelecer papéis claros (product owner, gestor de suporte, analista de dados) para manter a visão sistêmica.
+
+5. Modelos de Gestão Recomendados
+5.1 Gestão por processos com abordagem sistêmica
+Mapear processos críticos (desenvolvimento, suporte, onboarding de clientes) e definir responsáveis, indicadores e documentações padrão.
+
+5.2 Componentes de gestão ágil
+Ampliar o uso de práticas ágeis para equipes de suporte e marketing com cerimônias adaptadas (daily curta, kanban visual).
+Criar um Product Council mensal para alinhar backlog estratégico entre áreas.
+
+5.3 Governança de TI
+Implantar um comitê de mudanças para aprovar releases relevantes, garantindo avaliação de riscos, compliance e impactos financeiros.
+
+6. Cadeia de Valor – Versão Otimizada
+Atividades primárias propostas
+Aquisição de clientes: funil integrado com campanhas segmentadas por persona (iniciante, produtor independente, estúdio).
+Desenvolvimento de produto: pipeline ágil com integração contínua, testes automatizados e validação com usuários-chave.
+Entrega e suporte: central de ajuda omnichannel com SLAs definidos e base de conhecimento vinculada ao CRM.
+Relacionamento e fidelização: comunidade oficial com workshops, playlists e marketplace de presets.
+
+Atividades de apoio propostas
+Infraestrutura: partnership com provedor cloud que ofereça créditos e ferramentas de observabilidade.
+Gestão de pessoas: trilhas de capacitação técnica e musical, programa de mentoria entre equipes.
+Aquisição de tecnologia: contratos com fornecedores de bibliotecas de áudio sob licença clara e escalável.
+
+7. Cultura Organizacional – Estado Desejado
+Valores reforçados: foco no cliente, transparência, aprendizado contínuo e colaboração multidisciplinar.
+Programas de cultura: rituais trimestrais de demonstração de projetos, recognition program para equipes de suporte, círculos de aprendizado entre músicos e engenheiros.
+Indicadores de cultura: eNPS, rotatividade voluntária, participação em rituais culturais, taxa de adoção de práticas documentadas.
+
+8. Plano de Implementação de Sistemas Integrados (ERP, CRM, SCM)
+8.1 ERP (Módulos prioritários)
+Financeiro e faturamento: consolidação das assinaturas, reconciliação automática com gateways de pagamento.
+Compras e contratos: gestão dos royalties de samples, licenças de IA e infraestrutura cloud.
+Recursos humanos: controle de capacitações, avaliações e trilhas de competências.
+
+8.2 CRM
+Implantar plataforma especializada com recursos de ticketing, base de conhecimento e análise de churn.
+Integrar canais (chat in-app, e-mail, redes sociais) em filas únicas com triagem por prioridade.
+Configurar automações pós-release para comunicar novidades e coletar feedback estruturado.
+
+8.3 SCM aplicado ao ciclo de software
+Mapear pipeline do feedback ao patch: identificação, qualificação, priorização, desenvolvimento, QA, release e comunicação.
+Usar ferramenta de gerenciamento de projetos para sincronizar squads de IA, desenvolvimento e suporte.
+Monitorar métricas como lead time, throughput e taxa de falhas pós-release.
+
+8.4 Integração ERP + CRM + SCM
+Sincronizar dados financeiros com churn para ajustar previsão de receita.
+Utilizar alertas do CRM para alimentar backlog de produto e priorizar no SCM.
+Atualizar automaticamente o ERP com custos e esforço das sprints para medir rentabilidade das features.
+
+9. Matriz SWOT – Estado Futuro e Oportunidades
+
++------------------+------------------+
+| Aspecto Interno  | Aspecto Externo  |
++------------------+------------------+
+| Alavancar F1/O1  | Mitigar W1/T1    |
+| Criar Academy IA | Implantar G. TI  |
++------------------+------------------+
+
+Nota: Converter a matriz em infográfico visual nas versões finais.
+
+10. Balanced Scorecard (12 meses)
+
++------------------+--------------------------+--------------------+---------------------+
+| Perspectiva       | Objetivo Estratégico     | Indicador          | Meta                |
++------------------+--------------------------+--------------------+---------------------+
+| Financeira        | Aumentar receita SaaS    | MRR                | +25%                |
+|                   | Reduzir churn premium    | Churn mensal       | <3%                 |
+| Clientes          | Elevar satisfação        | NPS                | >55                 |
+|                   | Diminuir tempo de resposta| SLA suporte        | <4 horas            |
+| Processos internos| Agilizar releases        | Lead time release  | -40%                |
+|                   | Ampliar qualidade        | Falhas pós-release | <2%                 |
+| Aprendizado       | Capturar conhecimento    | Docs publicados    | +30 playbooks       |
+| e crescimento     | Desenvolver times híbridos| Colaboradores upskilled | 80%           |
++------------------+--------------------------+--------------------+---------------------+
+
+Iniciativas associadas (resumo)
+I1: Programa Lean Release para reduzir lead time.
+I2: Academia SheepTea para treinar comunidade e colaboradores.
+I3: Ritual Voice of Customer quinzenal para revisar tickets críticos.
+I4: Plataforma de analytics integrada ao ERP e CRM.
+
+11. Plano de Gestão do Conhecimento
+11.1 Identificação de conhecimentos
+Conhecimento tácito: técnicas de mixagem dos especialistas, heurísticas de suporte, repertório musical utilizado pela IA.
+Conhecimento explícito: documentação de APIs, base de samples, guias de uso, logs de treinamento da IA.
+
+11.2 Estratégias de captura
+Comunidades de prática entre desenvolvedores e músicos para registrar melhores práticas.
+Sessões de shadowing no suporte para converter scripts informais em roteiros.
+Repositório central (wiki) versionado com template padrão para playbooks e lições aprendidas.
+
+11.3 Distribuição e retenção
+Onboarding estruturado com trilhas de conteúdo por função.
+Portal de conhecimento integrado ao CRM para acesso rápido pelo suporte.
+Programa de mentoria cruzada (músico mentorando engenheiro e vice-versa).
+
+12. Procedimento Documentado – Gestão de Feedback e Releases
+12.1 Objetivo
+Garantir que todo feedback relevante de clientes ou equipes internas seja avaliado, priorizado e convertido em melhorias de produto com comunicação transparente ao usuário.
+
+12.2 Escopo
+Aplica-se a feedbacks de bugs, sugestões de funcionalidades, performance da IA e questões de usabilidade nas plataformas web e desktop.
+
+12.3 Papel e responsabilidades
+Suporte: captura feedback e qualifica gravidade.
+Product Owner: avalia alinhamento estratégico e prioriza backlog.
+Equipe de Desenvolvimento: estima esforço, implementa correção ou melhoria.
+QA: valida solução antes do release.
+Marketing/Comunicação: prepara mensagem ao usuário.
+
+12.4 Fluxo resumido
+1. Registro do feedback via CRM com categorização (bug, melhoria, dúvida).
+2. Triagem diária pelo suporte para definir urgência e impacto.
+3. Reunião semanal Product Council para priorizar itens críticos.
+4. Desenvolvimento em sprints curtas com acompanhamento do SCM.
+5. Validação pelo QA com checklist específico para IA e áudio.
+6. Publicação do release e comunicação automatizada aos clientes afetados.
+7. Monitoramento pós-release das métricas de falhas e satisfação.
+
+13. Simulação de Problemas e Soluções
+Caso 1 – Falha crítica pós-update
+Problema: atualização introduz bug que distorce exportações de áudio.
+Resposta: ativar plano de contingência, rollback, comunicação proativa via CRM, pós-mortem documentado no wiki.
+Resultado esperado: tempo de resposta reduzido para 2 horas, mitigando churn.
+
+Caso 2 – Sobrecarga no suporte após campanha
+Problema: campanha de lançamento do módulo de masterização gera pico de tickets.
+Resposta: base de conhecimento atualizada, chatbot treinado, escala de suporte reajustada via ERP.
+Resultado esperado: 60% de autoatendimento via FAQs, mantendo SLA em 4 horas.
+
+Caso 3 – Vazamento de preset proprietário
+Problema: preset exclusivo da versão premium circula em fóruns externos.
+Resposta: equipe jurídica ativa cláusulas de uso, desenvolvimento adiciona watermark digital, marketing oferece pacotes adicionais para fidelização.
+Resultado esperado: proteção da propriedade intelectual e manutenção da percepção de valor da assinatura premium.
+
+14. Plano de Mudanças
+Fase 1 (0-3 meses): implantação do CRM integrado ao suporte, mapeamento de processos e documentação inicial, criação do comitê de mudanças.
+Fase 2 (3-6 meses): integração CRM-SCM, piloto do ERP financeiro, lançamento do Balanced Scorecard com dashboards executivos.
+Fase 3 (6-12 meses): expansão do ERP para RH, consolidação da Academy SheepTea, otimização contínua baseada nos indicadores BSC.
+
+15. Resultados Esperados (12 meses)
+Receita recorrente mensal (MRR) cresce 25% com redução de churn premium para 3%.
+Tempo médio de resposta no suporte cai de 18 para 4 horas.
+Lead time de releases reduz de 21 para 12 dias.
+Publicação de 30 playbooks e trilhas de conhecimento; 80% da equipe certificada.
+eNPS aumenta de 15 para 45, refletindo cultura mais colaborativa.
+
+16. Recursos Visuais Planejados
+Gráfico de barras: evolução do lead time de releases por trimestre.
+Mapa de calor: distribuição de tickets por categoria antes e depois do CRM.
+Fluxograma: processo de feedback e releases (base para desenho no software de diagramação).
+Dashboard BSC: mockup com indicadores em formato gauge.
+
+17. Próximos Passos para Consolidação do Documento
+Validar premissas financeiras com o time administrativo.
+Detalhar custos de implementação das ferramentas (licenças, treinamento).
+Coletar depoimentos fictícios de usuários para enriquecer a narrativa.
+Preparar versão resumida para slides mantendo consistência com este documento.
+
